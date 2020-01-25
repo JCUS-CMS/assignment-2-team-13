@@ -63,6 +63,9 @@ When these activities occur, the site will automatically pull the latest version
 ##About the project
 Doctors Connect Foundation Malaysia’s sole aim is in creating access for quality healthcare to remote inaccessible and poor socioeconomic areas to provide quality medical screening and care for the needy and unfortunate irrespective of race, religion or nationality – all FREE of cost!
 
+you can access our website click the link below:
+http://jcu-zmn.thomasstudio.me
+
 
 
 
