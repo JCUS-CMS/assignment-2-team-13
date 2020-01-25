@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3.2" created="2020-01-25 16:41" -->
+	<!-- generator="WordPress/5.3.2" created="2020-01-25 17:41" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Doctors Connect – Malaysia</title>
 	<link>http://jcu-zmn.thomasstudio.me</link>
 	<description>Doctors Connect – Malaysia</description>
-	<pubDate>Sat, 25 Jan 2020 16:41:05 +0000</pubDate>
+	<pubDate>Sat, 25 Jan 2020 17:41:36 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://jcu-zmn.thomasstudio.me</wp:base_site_url>
@@ -75,7 +75,7 @@
 </wp:term>
 
 	<generator>https://wordpress.org/?v=5.3.2</generator>
-	<bt_data>YToyMDp7czoxMzoic2hvd19vbl9mcm9udCI7czo0OiJwYWdlIjtzOjEzOiJwYWdlX29uX2Zyb250IjtzOjMxOiJ0aGUtbmV3LXVtb21hLW9wZW5zLWl0cy1kb29ycy0yIjtzOjE0OiJwYWdlX2Zvcl9wb3N0cyI7czo0OiJibG9nIjtzOjE2OiJzaWRlYmFyc193aWRnZXRzIjthOjc6e3M6MTk6IndwX2luYWN0aXZlX3dpZGdldHMiO2E6MTM6e2k6MDtzOjEwOiJhcmNoaXZlcy00IjtpOjE7czoxMDoiYXJjaGl2ZXMtNiI7aToyO3M6MTU6Im1lZGlhX2dhbGxlcnktMyI7aTozO3M6NjoidGV4dC0yIjtpOjQ7czoxMjoiYnRfZ2FsbGVyeS0zIjtpOjU7czoxNzoiYnRfcmVjZW50X3Bvc3RzLTMiO2k6NjtzOjEwOiJhcmNoaXZlcy0yIjtpOjc7czo2OiJtZXRhLTIiO2k6ODtzOjg6InNlYXJjaC0yIjtpOjk7czoxMjoiY2F0ZWdvcmllcy0yIjtpOjEwO3M6MTQ6InJlY2VudC1wb3N0cy0yIjtpOjExO3M6MTc6InJlY2VudC1jb21tZW50cy0yIjtpOjEyO3M6NjoidGV4dC0zIjt9aToyMTQ7YTowOnt9czoxOToicHJpbWFyeV93aWRnZXRfYXJlYSI7YTowOnt9czoxOToiaGVhZGVyX2xlZnRfd2lkZ2V0cyI7YTowOnt9czoyMDoiaGVhZGVyX3JpZ2h0X3dpZGdldHMiO2E6MDp7fXM6MTQ6ImZvb3Rlcl93aWRnZXRzIjthOjQ6e2k6MDtzOjEwOiJuYXZfbWVudS0zIjtpOjE7czoxMjoiY2F0ZWdvcmllcy00IjtpOjI7czoxNDoicmVjZW50LXBvc3RzLTQiO2k6MztzOjg6InNlYXJjaC00Ijt9czoxMzoiYXJyYXlfdmVyc2lvbiI7aTozO31zOjE1OiJ3aWRnZXRfYXJjaGl2ZXMiO2E6NDp7aToyO2E6Mzp7czo1OiJ0aXRsZSI7czowOiIiO3M6NToiY291bnQiO2k6MDtzOjg6ImRyb3Bkb3duIjtpOjA7fXM6MTI6Il9tdWx0aXdpZGdldCI7aToxO2k6NDthOjA6e31pOjY7YTowOnt9fXM6MjA6IndpZGdldF9tZWRpYV9nYWxsZXJ5IjthOjI6e3M6MTI6Il9tdWx0aXdpZGdldCI7aToxO2k6MzthOjY6e3M6NToidGl0bGUiO3M6NDoiVGVzdCI7czozOiJpZHMiO2E6MDp7fXM6NzoiY29sdW1ucyI7aTozO3M6NDoic2l6ZSI7czo5OiJ0aHVtYm5haWwiO3M6OToibGlua190eXBlIjtzOjQ6InBvc3QiO3M6MTQ6Im9yZGVyYnlfcmFuZG9tIjtiOjA7fX1zOjExOiJ3aWRnZXRfdGV4dCI7YTozOntpOjI7YTo0OntzOjU6InRpdGxlIjtzOjE1OiJBYm91dCBUaGlzIFNpdGUiO3M6NDoidGV4dCI7czo1NzU6IlNpbmNlIEF1Z3VzdCAyMDE4LCB3ZSBoYXZlIGNvbW1pdHRlZCB0byBtZWRpY2FsIHNlcnZpY2UgcHJvamVjdHMgZm9yIGFkdWx0ICZhbXA7IGNoaWxkcmVuLCB3aXRoIGNvcmUgc2NvcGUgb2Ygc2VydmljZXMgcGVydGFpbmluZyB0byAxKSBPdXRwYXRpZW50IGNsaW5pYyAyKSBOb24gY29tbXVuaWNhYmxlIGRpc2Vhc2VzIDMpIENhcmRpYWMgc2NyZWVuaW5nIDQpIERlcm1hdG9sb2d5IDUpIERlbnRhbCBzY3JlZW5pbmcgNikgT3B0b21ldHJ5IGFuZCB2aXNpb24gc2NyZWVuaW5nIDcpIE1hdGVybmFsICZhbXA7IGNoaWxkIGhlYWx0aC4NCg0KT3VyIHRlYW0gb2YgY29tbWl0dGVkIGhlYWx0aGNhcmUgcHJvZmVzc2lvbmFscyB3aWxsIHdvcmsgdG9nZXRoZXIgdG8gZm9ybSBhIHN0cnVjdHVyZWQgbWVkaWNhbCBjYW1wIHdpdGggZW1waGFzaXMgb24gcGF0aWVudCBoZWFsdGggYW5kIGdlbmVyYWwgd2VsbC1iZWluZy4gVGhlIG1haW4gZW1waGFzaXMgaXMgZm9jdXNlZCBvbiBoZWFsdGggZWR1Y2F0aW9uIGFuZCBzY3JlZW5pbmcgZm9yIGVhcmx5IGludGVydmVudGlvbiB0byBwcmV2ZW50IGNvbXBsaWNhdGlvbnMuIjtzOjY6ImZpbHRlciI7YjoxO3M6NjoidmlzdWFsIjtiOjE7fWk6MzthOjQ6e3M6NToidGl0bGUiO3M6NzoiRmluZCBVcyI7czo0OiJ0ZXh0IjtzOjE2ODoiPHN0cm9uZz5BZGRyZXNzPC9zdHJvbmc+CjEyMyBNYWluIFN0cmVldApOZXcgWW9yaywgTlkgMTAwMDEKCjxzdHJvbmc+SG91cnM8L3N0cm9uZz4KTW9uZGF5Jm1kYXNoO0ZyaWRheTogOTowMEFNJm5kYXNoOzU6MDBQTQpTYXR1cmRheSAmYW1wOyBTdW5kYXk6IDExOjAwQU0mbmRhc2g7MzowMFBNIjtzOjY6ImZpbHRlciI7YjoxO3M6NjoidmlzdWFsIjtiOjE7fXM6MTI6Il9tdWx0aXdpZGdldCI7aToxO31zOjE3OiJ3aWRnZXRfYnRfZ2FsbGVyeSI7YToyOntzOjEyOiJfbXVsdGl3aWRnZXQiO2k6MTtpOjM7YTowOnt9fXM6MjI6IndpZGdldF9idF9yZWNlbnRfcG9zdHMiO2E6Mjp7czoxMjoiX211bHRpd2lkZ2V0IjtpOjE7aTozO2E6MDp7fX1zOjExOiJ3aWRnZXRfbWV0YSI7YToyOntpOjI7YToxOntzOjU6InRpdGxlIjtzOjA6IiI7fXM6MTI6Il9tdWx0aXdpZGdldCI7aToxO31zOjEzOiJ3aWRnZXRfc2VhcmNoIjthOjM6e2k6MjthOjE6e3M6NToidGl0bGUiO3M6MDoiIjt9czoxMjoiX211bHRpd2lkZ2V0IjtpOjE7aTo0O2E6MDp7fX1zOjE3OiJ3aWRnZXRfY2F0ZWdvcmllcyI7YTozOntpOjI7YTo0OntzOjU6InRpdGxlIjtzOjQ6ImNhc3QiO3M6NToiY291bnQiO2k6MTtzOjEyOiJoaWVyYXJjaGljYWwiO2k6MTtzOjg6ImRyb3Bkb3duIjtpOjE7fXM6MTI6Il9tdWx0aXdpZGdldCI7aToxO2k6NDthOjA6e319czoxOToid2lkZ2V0X3JlY2VudC1wb3N0cyI7YTozOntpOjI7YToyOntzOjU6InRpdGxlIjtzOjA6IiI7czo2OiJudW1iZXIiO2k6NTt9czoxMjoiX211bHRpd2lkZ2V0IjtpOjE7aTo0O2E6MDp7fX1zOjIyOiJ3aWRnZXRfcmVjZW50LWNvbW1lbnRzIjthOjI6e2k6MjthOjI6e3M6NToidGl0bGUiO3M6MDoiIjtzOjY6Im51bWJlciI7aTo1O31zOjEyOiJfbXVsdGl3aWRnZXQiO2k6MTt9czoxNToid2lkZ2V0X25hdl9tZW51IjthOjI6e3M6MTI6Il9tdWx0aXdpZGdldCI7aToxO2k6MzthOjI6e3M6NToidGl0bGUiO3M6NDoiSG9tZSI7czo4OiJuYXZfbWVudSI7aToyO319czoxOToicGVybWFsaW5rX3N0cnVjdHVyZSI7czowOiIiO3M6MzA6ImJvbGR0aGVtZXNfdGhlbWVfdGhlbWVfb3B0aW9ucyI7YToxNTp7czo0OiJsb2dvIjtzOjkxOiJodHRwOi8vamN1LXptbi50aG9tYXNzdHVkaW8ubWUvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMDEvRklOQUwtTE9WRS1IRUFSVC1NRURJQ0FMLUxPR08ucG5nIjtzOjg6ImFsdF9sb2dvIjtzOjkxOiJodHRwOi8vamN1LXptbi50aG9tYXNzdHVkaW8ubWUvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMDEvRklOQUwtTE9WRS1IRUFSVC1NRURJQ0FMLUxPR08ucG5nIjtzOjEzOiJoaWRlX2hlYWRsaW5lIjtzOjA6IiI7czoxMzoidGVtcGxhdGVfc2tpbiI7czowOiIiO3M6MTY6InNpZGViYXJfdXNlX2Rhc2giO3M6MToiMSI7czoxNDoicHJlbG9hZGVyX3RleHQiO3M6MTQ6IkRvY3RvciBDb25uZWN0IjtzOjk6Im1lbnVfdHlwZSI7czo2OiJoUmlnaHQiO3M6MTA6ImJlbG93X21lbnUiO3M6MDoiIjtzOjE3OiJ0b3BfdG9vbHNfaW5fbWVudSI7czowOiIiO3M6MTM6InN0aWNreV9oZWFkZXIiO3M6MToiMSI7czoxNjoiZm9vdGVyX2Rhcmtfc2tpbiI7czowOiIiO3M6MTE6ImN1c3RvbV90ZXh0IjtzOjEwMDoiRG9jdG9ycyBDb25uZWN0IEZvdW5kYXRpb24gTWFsYXlzaWEgfCBEci4gU2FuamF5IE5heWFyIHwgRW1haWwgOiBtd3RpQHlhaG9vLmNvbSB8IEhQOiArNjAxMi02MDgtNzIwMiI7czoxNjoiZm9vdGVyX3BhZ2Vfc2x1ZyI7czoxOiIvIjtzOjE1OiJwYWdlX2JhY2tncm91bmQiO3M6MDoiIjtzOjExOiJhbHRlcl9jb2xvciI7czo3OiIjMWMxYzFjIjt9czoxODoibmF2X21lbnVfbG9jYXRpb25zIjthOjE6e3M6NzoicHJpbWFyeSI7czo3OiJwcmltYXJ5Ijt9czo4OiJjYXRfbWV0YSI7YTowOnt9czoxNjoicHJvZHVjdF9jYXRfbWV0YSI7YTowOnt9fQ==</bt_data>
+	<bt_data>YToyMDp7czoxMzoic2hvd19vbl9mcm9udCI7czo0OiJwYWdlIjtzOjEzOiJwYWdlX29uX2Zyb250IjtzOjMxOiJ0aGUtbmV3LXVtb21hLW9wZW5zLWl0cy1kb29ycy0yIjtzOjE0OiJwYWdlX2Zvcl9wb3N0cyI7czo0OiJibG9nIjtzOjE2OiJzaWRlYmFyc193aWRnZXRzIjthOjc6e3M6MTk6IndwX2luYWN0aXZlX3dpZGdldHMiO2E6MTM6e2k6MDtzOjEwOiJhcmNoaXZlcy00IjtpOjE7czoxMDoiYXJjaGl2ZXMtNiI7aToyO3M6MTU6Im1lZGlhX2dhbGxlcnktMyI7aTozO3M6NjoidGV4dC0yIjtpOjQ7czoxMjoiYnRfZ2FsbGVyeS0zIjtpOjU7czoxNzoiYnRfcmVjZW50X3Bvc3RzLTMiO2k6NjtzOjEwOiJhcmNoaXZlcy0yIjtpOjc7czo2OiJtZXRhLTIiO2k6ODtzOjg6InNlYXJjaC0yIjtpOjk7czoxMjoiY2F0ZWdvcmllcy0yIjtpOjEwO3M6MTQ6InJlY2VudC1wb3N0cy0yIjtpOjExO3M6MTc6InJlY2VudC1jb21tZW50cy0yIjtpOjEyO3M6NjoidGV4dC0zIjt9aToyMTQ7YTowOnt9czoxOToicHJpbWFyeV93aWRnZXRfYXJlYSI7YTowOnt9czoxOToiaGVhZGVyX2xlZnRfd2lkZ2V0cyI7YTowOnt9czoyMDoiaGVhZGVyX3JpZ2h0X3dpZGdldHMiO2E6MDp7fXM6MTQ6ImZvb3Rlcl93aWRnZXRzIjthOjQ6e2k6MDtzOjEwOiJuYXZfbWVudS0zIjtpOjE7czoxMjoiY2F0ZWdvcmllcy00IjtpOjI7czoxNDoicmVjZW50LXBvc3RzLTQiO2k6MztzOjg6InNlYXJjaC00Ijt9czoxMzoiYXJyYXlfdmVyc2lvbiI7aTozO31zOjE1OiJ3aWRnZXRfYXJjaGl2ZXMiO2E6NDp7aToyO2E6Mzp7czo1OiJ0aXRsZSI7czowOiIiO3M6NToiY291bnQiO2k6MDtzOjg6ImRyb3Bkb3duIjtpOjA7fXM6MTI6Il9tdWx0aXdpZGdldCI7aToxO2k6NDthOjA6e31pOjY7YTowOnt9fXM6MjA6IndpZGdldF9tZWRpYV9nYWxsZXJ5IjthOjI6e3M6MTI6Il9tdWx0aXdpZGdldCI7aToxO2k6MzthOjY6e3M6NToidGl0bGUiO3M6NDoiVGVzdCI7czozOiJpZHMiO2E6MDp7fXM6NzoiY29sdW1ucyI7aTozO3M6NDoic2l6ZSI7czo5OiJ0aHVtYm5haWwiO3M6OToibGlua190eXBlIjtzOjQ6InBvc3QiO3M6MTQ6Im9yZGVyYnlfcmFuZG9tIjtiOjA7fX1zOjExOiJ3aWRnZXRfdGV4dCI7YTozOntpOjI7YTo0OntzOjU6InRpdGxlIjtzOjE1OiJBYm91dCBUaGlzIFNpdGUiO3M6NDoidGV4dCI7czo1NzU6IlNpbmNlIEF1Z3VzdCAyMDE4LCB3ZSBoYXZlIGNvbW1pdHRlZCB0byBtZWRpY2FsIHNlcnZpY2UgcHJvamVjdHMgZm9yIGFkdWx0ICZhbXA7IGNoaWxkcmVuLCB3aXRoIGNvcmUgc2NvcGUgb2Ygc2VydmljZXMgcGVydGFpbmluZyB0byAxKSBPdXRwYXRpZW50IGNsaW5pYyAyKSBOb24gY29tbXVuaWNhYmxlIGRpc2Vhc2VzIDMpIENhcmRpYWMgc2NyZWVuaW5nIDQpIERlcm1hdG9sb2d5IDUpIERlbnRhbCBzY3JlZW5pbmcgNikgT3B0b21ldHJ5IGFuZCB2aXNpb24gc2NyZWVuaW5nIDcpIE1hdGVybmFsICZhbXA7IGNoaWxkIGhlYWx0aC4NCg0KT3VyIHRlYW0gb2YgY29tbWl0dGVkIGhlYWx0aGNhcmUgcHJvZmVzc2lvbmFscyB3aWxsIHdvcmsgdG9nZXRoZXIgdG8gZm9ybSBhIHN0cnVjdHVyZWQgbWVkaWNhbCBjYW1wIHdpdGggZW1waGFzaXMgb24gcGF0aWVudCBoZWFsdGggYW5kIGdlbmVyYWwgd2VsbC1iZWluZy4gVGhlIG1haW4gZW1waGFzaXMgaXMgZm9jdXNlZCBvbiBoZWFsdGggZWR1Y2F0aW9uIGFuZCBzY3JlZW5pbmcgZm9yIGVhcmx5IGludGVydmVudGlvbiB0byBwcmV2ZW50IGNvbXBsaWNhdGlvbnMuIjtzOjY6ImZpbHRlciI7YjoxO3M6NjoidmlzdWFsIjtiOjE7fWk6MzthOjQ6e3M6NToidGl0bGUiO3M6NzoiRmluZCBVcyI7czo0OiJ0ZXh0IjtzOjE2ODoiPHN0cm9uZz5BZGRyZXNzPC9zdHJvbmc+CjEyMyBNYWluIFN0cmVldApOZXcgWW9yaywgTlkgMTAwMDEKCjxzdHJvbmc+SG91cnM8L3N0cm9uZz4KTW9uZGF5Jm1kYXNoO0ZyaWRheTogOTowMEFNJm5kYXNoOzU6MDBQTQpTYXR1cmRheSAmYW1wOyBTdW5kYXk6IDExOjAwQU0mbmRhc2g7MzowMFBNIjtzOjY6ImZpbHRlciI7YjoxO3M6NjoidmlzdWFsIjtiOjE7fXM6MTI6Il9tdWx0aXdpZGdldCI7aToxO31zOjE3OiJ3aWRnZXRfYnRfZ2FsbGVyeSI7YToyOntzOjEyOiJfbXVsdGl3aWRnZXQiO2k6MTtpOjM7YTowOnt9fXM6MjI6IndpZGdldF9idF9yZWNlbnRfcG9zdHMiO2E6Mjp7czoxMjoiX211bHRpd2lkZ2V0IjtpOjE7aTozO2E6MDp7fX1zOjExOiJ3aWRnZXRfbWV0YSI7YToyOntpOjI7YToxOntzOjU6InRpdGxlIjtzOjA6IiI7fXM6MTI6Il9tdWx0aXdpZGdldCI7aToxO31zOjEzOiJ3aWRnZXRfc2VhcmNoIjthOjM6e2k6MjthOjE6e3M6NToidGl0bGUiO3M6MDoiIjt9czoxMjoiX211bHRpd2lkZ2V0IjtpOjE7aTo0O2E6MDp7fX1zOjE3OiJ3aWRnZXRfY2F0ZWdvcmllcyI7YTozOntpOjI7YTo0OntzOjU6InRpdGxlIjtzOjQ6ImNhc3QiO3M6NToiY291bnQiO2k6MTtzOjEyOiJoaWVyYXJjaGljYWwiO2k6MTtzOjg6ImRyb3Bkb3duIjtpOjE7fXM6MTI6Il9tdWx0aXdpZGdldCI7aToxO2k6NDthOjA6e319czoxOToid2lkZ2V0X3JlY2VudC1wb3N0cyI7YTozOntpOjI7YToyOntzOjU6InRpdGxlIjtzOjA6IiI7czo2OiJudW1iZXIiO2k6NTt9czoxMjoiX211bHRpd2lkZ2V0IjtpOjE7aTo0O2E6MDp7fX1zOjIyOiJ3aWRnZXRfcmVjZW50LWNvbW1lbnRzIjthOjI6e2k6MjthOjI6e3M6NToidGl0bGUiO3M6MDoiIjtzOjY6Im51bWJlciI7aTo1O31zOjEyOiJfbXVsdGl3aWRnZXQiO2k6MTt9czoxNToid2lkZ2V0X25hdl9tZW51IjthOjI6e3M6MTI6Il9tdWx0aXdpZGdldCI7aToxO2k6MzthOjI6e3M6NToidGl0bGUiO3M6NDoiSG9tZSI7czo4OiJuYXZfbWVudSI7aToyO319czoxOToicGVybWFsaW5rX3N0cnVjdHVyZSI7czowOiIiO3M6MzA6ImJvbGR0aGVtZXNfdGhlbWVfdGhlbWVfb3B0aW9ucyI7YToxNzp7czo0OiJsb2dvIjtzOjkxOiJodHRwOi8vamN1LXptbi50aG9tYXNzdHVkaW8ubWUvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMDEvRklOQUwtTE9WRS1IRUFSVC1NRURJQ0FMLUxPR08ucG5nIjtzOjg6ImFsdF9sb2dvIjtzOjkxOiJodHRwOi8vamN1LXptbi50aG9tYXNzdHVkaW8ubWUvd3AtY29udGVudC91cGxvYWRzLzIwMjAvMDEvRklOQUwtTE9WRS1IRUFSVC1NRURJQ0FMLUxPR08ucG5nIjtzOjEzOiJoaWRlX2hlYWRsaW5lIjtzOjA6IiI7czoxMzoidGVtcGxhdGVfc2tpbiI7czowOiIiO3M6MTY6InNpZGViYXJfdXNlX2Rhc2giO3M6MToiMSI7czoxNDoicHJlbG9hZGVyX3RleHQiO3M6MTQ6IkRvY3RvciBDb25uZWN0IjtzOjk6Im1lbnVfdHlwZSI7czo2OiJoUmlnaHQiO3M6MTA6ImJlbG93X21lbnUiO3M6MDoiIjtzOjE3OiJ0b3BfdG9vbHNfaW5fbWVudSI7czowOiIiO3M6MTM6InN0aWNreV9oZWFkZXIiO3M6MToiMSI7czoxNjoiZm9vdGVyX2Rhcmtfc2tpbiI7czowOiIiO3M6MTE6ImN1c3RvbV90ZXh0IjtzOjEwMDoiRG9jdG9ycyBDb25uZWN0IEZvdW5kYXRpb24gTWFsYXlzaWEgfCBEci4gU2FuamF5IE5heWFyIHwgRW1haWwgOiBtd3RpQHlhaG9vLmNvbSB8IEhQOiArNjAxMi02MDgtNzIwMiI7czoxNjoiZm9vdGVyX3BhZ2Vfc2x1ZyI7czoxOiIvIjtzOjE1OiJwYWdlX2JhY2tncm91bmQiO3M6MDoiIjtzOjExOiJhbHRlcl9jb2xvciI7czo3OiIjMWMxYzFjIjtzOjEwOiJjdXN0b21fY3NzIjtzOjEzMToiLmJ0Q29udGVudHsgZGlzcGxheTogZmxleDsgd2lkdGg6IDEwMCU7ZmxleC1kaXJlY3Rpb246Y29sdW1uOyB9IC5idF9iYl93cmFwcGVyeyB3aWR0aDogMTAwJTsgfSAuYnRfYmJfd3JhcHBlcnsgdGV4dC1hbGlnbjpqdXN0aWZ5O30iO3M6Nzoic2lkZWJhciI7czo0OiJsZWZ0Ijt9czoxODoibmF2X21lbnVfbG9jYXRpb25zIjthOjE6e3M6NzoicHJpbWFyeSI7czo3OiJwcmltYXJ5Ijt9czo4OiJjYXRfbWV0YSI7YTowOnt9czoxNjoicHJvZHVjdF9jYXRfbWV0YSI7YTowOnt9fQ==</bt_data>
 		<item>
 		<title>FINAL LOVE HEART MEDICAL LOGO</title>
 		<link>http://jcu-zmn.thomasstudio.me/?attachment_id=5</link>
@@ -4033,6 +4033,58 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Sample Page</title>
+		<link>http://jcu-zmn.thomasstudio.me/?page_id=2</link>
+		<pubDate>Sun, 19 Jan 2020 11:56:56 +0000</pubDate>
+		<dc:creator><![CDATA[zawminnaing]]></dc:creator>
+		<guid isPermaLink="false">http://zmt.test/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://zmt.test/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-19 11:56:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-19 11:56:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1579681796]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Privacy Policy</title>
 		<link>http://jcu-zmn.thomasstudio.me/?page_id=3</link>
 		<pubDate>Sun, 19 Jan 2020 11:56:56 +0000</pubDate>
@@ -4250,7 +4302,7 @@ Our vision is unity in diversity - breaking boundaries of race religion and nati
 
 This is a multiracial and a multi-faith group of healthcare professionals ranging from doctors, dentists, nurses, pharmacists, physiotherapists, nutritionists, counsellors and medical/dental students. We are a universal group strictly without any political agenda, and are not associated with any particular organisation, foundation or religious society. Our sole purpose is to work with different groups from all over Malaysia, to provide quality medical screening and care for the needy and unfortunate irrespective of race, religion or nationality.
 
-<img class="alignnone size-medium wp-image-12" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic07-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-6" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic01-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-10" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic05-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-16" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic11-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-90" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/dc-pic01-300x150.jpg" alt="" width="300" height="150" /> <img class="alignnone size-medium wp-image-76" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Kerling-pic06-1-300x200.jpg" alt="" width="300" height="200" />
+<img class="alignnone size-medium wp-image-12" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic07-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-6" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic01-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-10" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic05-300x225.jpg" alt="" width="300" height="225" />
 
 &nbsp;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -4580,28 +4632,6 @@ This is a multiracial and a multi-faith group of healthcare professionals rangin
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Doctors Connect – Malaysia</title>
-		<link>http://jcu-zmn.thomasstudio.me/?page_id=130</link>
-		<pubDate></pubDate>
-		<dc:creator><![CDATA[zawminnaing]]></dc:creator>
-		<guid isPermaLink="false">http://zmt.test/?page_id=130</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>130</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-19 12:08:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[0000-00-00 00:00:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
 		<title>My Account</title>
 		<link>http://jcu-zmn.thomasstudio.me/?page_id=150</link>
 		<pubDate>Tue, 21 Jan 2020 09:05:59 +0000</pubDate>
@@ -4651,6 +4681,10 @@ This is a multiracial and a multi-faith group of healthcare professionals rangin
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[boldthemes_theme_animations]]></wp:meta_key>
 		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[200]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4709,13 +4743,17 @@ This is a multiracial and a multi-faith group of healthcare professionals rangin
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Mission</title>
+		<title>Missions</title>
 		<link>http://jcu-zmn.thomasstudio.me/?page_id=161</link>
 		<pubDate>Wed, 22 Jan 2020 07:35:54 +0000</pubDate>
 		<dc:creator><![CDATA[zawminnaing]]></dc:creator>
 		<guid isPermaLink="false">http://jcu-zmn.thomasstudio.me/?page_id=161</guid>
 		<description></description>
-		<content:encoded><![CDATA[One of the challenges we faced during each medical camp is inadequate medical and dental volunteers. This is the reason why we are linking up healthcare professionals all around Malaysia and the Asia Pacific region through this universal portal called Doctors Connect. We also aim to work with other countries to expand our pool of resources, so that we can do much more for the society collectively.
+		<content:encoded><![CDATA[<img class="alignnone size-medium wp-image-14" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic09-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-13" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic08-300x225.jpg" alt="" width="300" height="225" />
+
+&nbsp;
+<h1>Our Missions</h1>
+One of the challenges we faced during each medical camp is inadequate medical and dental volunteers. This is the reason why we are linking up healthcare professionals all around Malaysia and the Asia Pacific region through this universal portal called Doctors Connect. We also aim to work with other countries to expand our pool of resources, so that we can do much more for the society collectively.
 
 In the coming months, we will be launching a Doctors Connect website, which will showcase our work through different groups all over Asia Pacific region and more importantly, share stories of love and transformation by volunteers. We hope that with this move, more and more people will be inspired to take up volunteer work for the betterment of society and the world.
 
@@ -4731,7 +4769,11 @@ Please feel free to provide any suggestions for improvement or if you know of an
 
 Once again, it’s truly a privilege to know each of you, and we hope to do some good work with all of you at some point in time.
 
-Thank you for your time in reading this and joining the cause, and have a great weekend ahead!]]></content:encoded>
+Thank you for your time in reading this and joining the cause, and have a great weekend ahead!
+
+&nbsp;
+
+<img class="alignnone size-medium wp-image-29" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Kalumpang-pic02-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-24" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic19-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-25" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic20-300x225.jpg" alt="" width="300" height="225" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>161</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-22 07:35:54]]></wp:post_date>
@@ -4915,7 +4957,11 @@ Thank you for your time in reading this and joining the cause, and have a great 
 
 <strong>Mobile pathology:</strong> A portable laboratory to provide value in our screening and help detect nutritional anaemias, chronic infections, renal diseases, cholesterol issues and complications of lifestyle disease. Once detected, emphasis is on education and early intervention. Future equipment: A mobile lab.
 
-<strong>Ultrasound services:</strong> to help provide quality screening for rural villagers for gynaecology diseases, as well as pregnant mothers, and ensure that that women’s health in rural areas are not neglected due to lack of education or poor socioeconomic conditions. Future equipment: A portable ultrasound machine.]]></content:encoded>
+<strong>Ultrasound services:</strong> to help provide quality screening for rural villagers for gynaecology diseases, as well as pregnant mothers, and ensure that that women’s health in rural areas are not neglected due to lack of education or poor socioeconomic conditions. Future equipment: A portable ultrasound machine.
+
+&nbsp;
+
+<img class="alignnone size-medium wp-image-10" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic05-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-7" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic02-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-6" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic01-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-14" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic09-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-13" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic08-300x225.jpg" alt="" width="300" height="225" /> <img class="alignnone size-medium wp-image-11" src="http://jcu-zmn.thomasstudio.me/wp-content/uploads/2020/01/Dengkil-pic06-300x225.jpg" alt="" width="300" height="225" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>171</wp:post_id>
 		<wp:post_date><![CDATA[2020-01-22 07:54:59]]></wp:post_date>
@@ -4936,6 +4982,10 @@ Thank you for your time in reading this and joining the cause, and have a great 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[boldthemes_theme_animations]]></wp:meta_key>
 		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[88]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5081,38 +5131,20 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</wp:comment>
 					</item>
 					<item>
-		<title>Sample Page</title>
-		<link>http://jcu-zmn.thomasstudio.me/?page_id=2</link>
-		<pubDate>Sun, 19 Jan 2020 11:56:56 +0000</pubDate>
+		<title>Doctors Connect – Malaysia</title>
+		<link>http://jcu-zmn.thomasstudio.me/?page_id=130</link>
+		<pubDate>Sat, 25 Jan 2020 17:35:28 +0000</pubDate>
 		<dc:creator><![CDATA[zawminnaing]]></dc:creator>
-		<guid isPermaLink="false">http://zmt.test/?page_id=2</guid>
+		<guid isPermaLink="false">http://zmt.test/?page_id=130</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://zmt.test/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2020-01-19 11:56:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-01-19 11:56:56]]></wp:post_date_gmt>
+		<wp:post_id>130</wp:post_id>
+		<wp:post_date><![CDATA[2020-01-25 17:35:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-01-25 17:35:28]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[__trashed]]></wp:post_name>
 		<wp:status><![CDATA[trash]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5120,16 +5152,24 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[boldthemes_theme_animations]]></wp:meta_key>
+		<wp:meta_value><![CDATA[normal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1579681796]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1579973728]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
