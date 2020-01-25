@@ -14,6 +14,10 @@ The production site: The live version of the site, containing the latest stable 
 The staging site: The environment used to test the theme on a remote web server and draft web content
 Local development environments: The virtual machine on your local device used to develop and test theme changes
 
+## About Theme
+Medicare is health and medical multipurpose WordPress theme built for an array of services with a number of healthcare and medical institutions in mind.
+
+This WP theme has a clean code and it is regularly updated. It is fully responsive, retina ready and easy to customize.
 
 ## Branches
 Main Branches
@@ -41,6 +45,7 @@ Merge the 'header' branch back into the 'Staging' branch when the header is comp
 7. When prompted to enter the database details, change the table prefix option to wpae_
 8. Open the project files in your IDE of choice and [add any local project files to .gitignore] (https://git-scm.com/docs/gitignore)
 9. Add the theme unit test to your local wordpress site
+10. If you want to use our setup ,you can restore our database in root directory ( wpz.sql) file.
 
 ## Working on Site Content
 To make it as easy as possible to migrate site content as well as to avoid having to move content from several different local environments, site content is to be drafted on the staging site. This provides an environment that is as close as possible to the live site that can be used to test content that can be accessed by anyone who is working on the site.
@@ -54,6 +59,10 @@ This project utilises webhooks to keep the staging an production sites up to dat
 Staging site: a commit is pushed to the 'Staging' branch
 Production site: a commit is pushed to the 'master' branch
 When these activities occur, the site will automatically pull the latest version of the project files.
+
+##About the project
+Doctors Connect Foundation Malaysia’s sole aim is in creating access for quality healthcare to remote inaccessible and poor socioeconomic areas to provide quality medical screening and care for the needy and unfortunate irrespective of race, religion or nationality – all FREE of cost!
+
 
 
 
