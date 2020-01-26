@@ -59,6 +59,18 @@ This project utilises webhooks to keep the staging an production sites up to dat
 Staging site: a commit is pushed to the 'Staging' branch
 Production site: a commit is pushed to the 'master' branch
 When these activities occur, the site will automatically pull the latest version of the project files.
+## Database Migration
+This project uses the 'Wp Migrate DB' plugin to migrate the Wordpress database between environments. The plugin is in the project files, so it is available in all environments. Make sure it is activated by checking the plugins page of the Wordpress dashboard before starting.
+
+To migrate the database from one environment to another:
+1. Open the Wp Migrate DB menu in both the current site and the target site. 
+It can be found under the tools tab in the Wordpress dashboard
+2. Copy the URL and file path of the 'find' column of the target site and paste them into the 'replace' columns of the starting site
+3. Click the 'export' button and save the file to your local device
+4. Open the database manager of your target site database (e.g. phpMyAdmin)
+5. Backup the current contents of the target database
+6. Import the new version of the database using the file on your local device
+
 
 ## About the project
 Doctors Connect Foundation Malaysia’s sole aim is in creating access for quality healthcare to remote inaccessible and poor socioeconomic areas to provide quality medical screening and care for the needy and unfortunate irrespective of race, religion or nationality – all FREE of cost!
